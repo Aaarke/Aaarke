@@ -1,14 +1,9 @@
-### Hi there 👋
+# Hi, I'm Roshan 👋💻
 
-**Aaarke/Aaarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/Aaarke/Aaarke/blob/master/106175330_2996691820447811_5663645525588647653_o.jpg" alt="banner that says Roshan Kumar - software engineer, content creator.Indian 🇮🇳| Android Developer 🖥️ | started learning react.js | 
+Kotlin ♥️, Java, JavaScript, Python | A hustler Indian Baniya
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android Developement.
-- 🌱 I’m currently learning ,React.js and Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Android Development
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Find me around the web 🌎:
+- Follow me on <a href="https://twitter.com/roshan_aaarke">Twitter</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/aaarke/">LinkedIn</a> 💼
