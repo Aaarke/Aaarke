@@ -3,8 +3,8 @@
  software engineer" width="100%" height="700">
 
 
-Indian 🇮🇳| Android Developer 🖥️ | started learning react.js | 
-Kotlin ♥️, Java, JavaScript, Python |A hustler Indian Baniya
+Indian 🇮🇳 | Android Developer 🖥️ | Started learning react.js | 
+Kotlin ♥️ |Java | JavaScript | Python | A hustler Indian Baniya
 
 
 ## Find me around the web 🌎:
