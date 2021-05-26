@@ -4,7 +4,7 @@
 
 
 Indian 🇮🇳 | Android Developer 🖥️ | Started learning react.js | 
-Kotlin ♥️ |Java | JavaScript | Python | A hustler Indian Baniya
+Kotlin ♥️ |Java | JavaScript | Python | A hustler
 
 
 ## Find me around the web 🌎:
