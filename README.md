@@ -8,5 +8,5 @@ Kotlin ♥️ |Java | JavaScript | Python | A hustler
 
 
 ## Find me around the web 🌎:
-- Follow me on <a href="https://twitter.com/roshan_aaarke">Twitter</a> 🏓
+- Follow me on <a href="https://twitter.com/codeRoshan">Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/aaarke/">LinkedIn</a> 💼
