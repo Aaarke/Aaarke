@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building [HotNote](https://github.com/Aaarke/HotNote).
 - 🌱 I’m currently learning Jetpack compose.
-- 💬 Ask me about Adroid or any tech-related stuff.
+- 💬 Ask me about Android or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
