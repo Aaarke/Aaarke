@@ -1,7 +1,3 @@
-# Hi, I'm Roshan 👋💻
-<img src="https://github.com/Aaarke/Aaarke/blob/master/106175330_2996691820447811_5663645525588647653_o.jpg" alt="banner that says Roshan  -
- software engineer" width="100%" height="400">
-
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -17,7 +13,7 @@
 - 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaarke22/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaarke/)[![Twitter](https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/CodeRoshan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaarke22/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaarke/)[![Twitter](https://img.shields.io/twitter/follow/CodeRoshan?logo=Twitter&style=for-the-badge)](https://twitter.com/CodeRoshan)
 
 ## 💻 Tech Stack
  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
