@@ -8,7 +8,7 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building [HotNote](https://github.com/Aaarke/HotNote).
-- 🌱 I’m currently learning Jetpack compose.
+- 🌱 I’m currently learning [Node.js](https://github.com/Aaarke/NodeFirstApp).
 - 💬 Ask me about Android or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 
